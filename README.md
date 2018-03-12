@@ -1,6 +1,6 @@
 # odds-and-ends
 
-##Various one-off scripts. May or may not work.
+## Various one-off scripts. May or may not work.
 
 banker.R - an attempt to find river bankfulls algorithmically
 
